@@ -1,0 +1,8 @@
+Package: nomad
+Version: 0.0.1
+Imports: provisionr (>= 0.1.3), yaml
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: ff93022b5db0642c96e15641b9650513
+NeedsCompilation: no
+
