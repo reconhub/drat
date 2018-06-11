@@ -32,7 +32,7 @@ Depends: R (>= 3.3.0)
 Imports: stats, distcrete, EpiEstim, epitrix
 Suggests: testthat, vdiffr, roxygen2, incidence, knitr
 License: MIT + file LICENSE
-MD5sum: 253f2c5ab54806fbcb6b3d31f2736198
+MD5sum: 452186e82217442184f6bc2100e86e32
 NeedsCompilation: no
 
 Package: epicontacts
