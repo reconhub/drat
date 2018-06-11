@@ -134,30 +134,33 @@ indicates that vignettes will not be compiled for `epicontacts`.
 The current versions of packages used in the `drat` repository are:
 
 
-## RECON packages
-
-reconhub/outbreaks@release
-reconhub/incidence@release
-reconhub/epicontacts@release {"vignettes": false}
-reconhub/epitrix@release
-reconhub/earlyR@release
-reconhub/projections@release
-reconhub/dibbler@release
-reconhub/vimes@release
-reconhub/branchr@release
-reconhub/nomad@release
-reconhub/recontools@release
-reconhub/shinyHelpers@release
-reconhub/recon.ui@release
-reconhub/incidence.ui@release
-reconhub/epicontacts.ui@release
-
-
-## Other packages
-
-richfitz/dde {"vignettes": false}
-mrc-ide/odin@development 
-mrc-ide/odin.ui@prototype
-vimc/orderly
-annecori/EpiEstim@release
+```
+## 
+## ## RECON packages
+## 
+## reconhub/outbreaks@release
+## reconhub/incidence@release
+## reconhub/epicontacts@release {"vignettes": false}
+## reconhub/epitrix@release
+## reconhub/earlyR@release
+## reconhub/projections@release
+## reconhub/dibbler@release
+## reconhub/vimes@release
+## reconhub/branchr@release
+## reconhub/nomad@release
+## reconhub/recontools@release
+## reconhub/shinyHelpers@release
+## reconhub/recon.ui@release
+## reconhub/incidence.ui@release
+## reconhub/epicontacts.ui@release
+## 
+## 
+## ## Other packages
+## 
+## richfitz/dde {"vignettes": false}
+## mrc-ide/odin@development 
+## mrc-ide/odin.ui@prototype
+## vimc/orderly
+## annecori/EpiEstim@release
+```
 
