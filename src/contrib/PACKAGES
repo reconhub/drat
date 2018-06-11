@@ -23,7 +23,7 @@ Depends: R (>= 3.0.0)
 Imports: utils, graphics, epicontacts, magrittr, visNetwork
 Suggests: testthat, knitr, rmarkdown, outbreaks
 License: GPL (>= 2)
-MD5sum: 9da253ee8b5547d213810c21a33e2752
+MD5sum: 5b9d5a96150ba61b3a6285e68b3ba31f
 NeedsCompilation: no
 
 Package: earlyR
