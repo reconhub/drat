@@ -14,7 +14,7 @@ LinkingTo: ring (>= 0.0.5)
 Suggests: deSolve, knitr, microbenchmark, rcmdshlib, rmarkdown,
         testthat
 License: MIT + file LICENSE
-MD5sum: 64e96f0426ae078d44f8ed0bbbc115f0
+MD5sum: 68ec6c565cb206c8929abb3a8a458ffe
 NeedsCompilation: yes
 
 Package: dibbler
