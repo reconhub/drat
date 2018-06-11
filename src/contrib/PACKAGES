@@ -138,7 +138,7 @@ Imports: stats, utils, incidence, distcrete, ggplot2
 Suggests: testthat, vdiffr, roxygen2, knitr, rmarkdown, outbreaks,
         magrittr
 License: MIT + file LICENSE
-MD5sum: 4b5ae153afed145fa77f74da5dab9c3f
+MD5sum: 08eba61a4b0ed529a67b75b485a36018
 NeedsCompilation: no
 
 Package: recon.ui
