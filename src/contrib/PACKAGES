@@ -78,6 +78,16 @@ License: MIT + file LICENSE
 MD5sum: 4b5ae153afed145fa77f74da5dab9c3f
 NeedsCompilation: no
 
+Package: recontools
+Version: 0.0.0.9000
+Depends: R (>= 3.2.0)
+Imports: devtools, git2r, readr, glue, praise, utils, crayon, knitr
+Suggests: roxygen2, testthat, covr, goodpractice, digest, rmarkdown,
+        pkgdown
+License: GPL-3
+MD5sum: a1e3aa2e8dbaa4e5c981656c608bf797
+NeedsCompilation: no
+
 Package: vimes
 Version: 1.0.0
 Depends: R (>= 3.0.0)
