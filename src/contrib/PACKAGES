@@ -174,5 +174,5 @@ Depends: R (>= 3.0.0)
 Imports: utils, graphics, igraph, VGAM, stats
 Suggests: testthat, knitr, rmarkdown, distcrete
 License: GPL (>= 2)
-MD5sum: 58fb3fa359dc0946932c2216a675e224
+MD5sum: a39f6f5c775e0e1b8f4e084aeace6434
 NeedsCompilation: no
