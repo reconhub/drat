@@ -1,3 +1,12 @@
+Package: earlyR
+Version: 0.0.1
+Depends: R (>= 3.3.0)
+Imports: stats, distcrete, EpiEstim, epitrix
+Suggests: testthat, vdiffr, roxygen2, incidence, knitr
+License: MIT + file LICENSE
+MD5sum: 253f2c5ab54806fbcb6b3d31f2736198
+NeedsCompilation: no
+
 Package: epicontacts
 Version: 1.1.1
 Imports: grDevices, dplyr, igraph, magrittr, visNetwork, threejs,
