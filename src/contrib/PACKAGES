@@ -128,7 +128,7 @@ Version: 1.3.0
 Depends: R (>= 3.0.0)
 Suggests: testthat, covr
 License: GPL (>= 2)
-MD5sum: 6bca9d46b1e0514769d9fc97d4abac86
+MD5sum: 9c46531576696a97081ace37056ba164
 NeedsCompilation: no
 
 Package: projections
