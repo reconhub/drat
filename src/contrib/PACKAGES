@@ -120,7 +120,7 @@ Imports: DBI, R6, RSQLite, digest, ids, jsonlite, optparse, withr, yaml
 Suggests: knitr, montagu (>= 0.2.0), png, processx, rmarkdown,
         testthat, vaultr (>= 0.0.3)
 License: MIT + file LICENSE
-MD5sum: bef2d11a2e523c739a6b8122f9c78499
+MD5sum: a25f302a101a570f1c2c454f27c848d0
 NeedsCompilation: no
 
 Package: outbreaks
