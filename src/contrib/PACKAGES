@@ -50,7 +50,7 @@ Imports: epicontacts, shiny, ggplot2, visNetwork, shinyjs, lubridate,
         outbreaks
 Suggests: knitr
 License: GPL (>= 2)
-MD5sum: 39a195e78227bacef9f18ea191935403
+MD5sum: fe97d52906ae0e11f584c14800000d2b
 NeedsCompilation: no
 
 Package: EpiEstim
