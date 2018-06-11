@@ -1,1 +1,27 @@
-reconhub/nomad
+
+## RECON packages
+
+reconhub/outbreaks@release
+reconhub/incidence@release
+reconhub/epicontacts@release
+reconhub/epitrix@release
+reconhub/earlyR@release
+reconhub/projections@release
+reconhub/dibbler@release
+reconhub/vimes@release
+reconhub/branchr@release
+reconhub/nomad@release
+reconhub/recontools@release
+reconhub/shinyHelpers@release
+reconhub/recon.ui@release
+reconhub/incidence.ui@release
+reconhub/epicontacts.ui@release
+
+
+## Other packages
+
+richfitz/dde
+mrc-ide/odin@development
+mrc-ide/odin.ui@prototype
+vimc/orderly
+annecori/EpiEstim@release
