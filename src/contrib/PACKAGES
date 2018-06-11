@@ -165,7 +165,7 @@ Depends: R (>= 3.1.0)
 Imports: shiny (>= 0.14.0)
 Suggests: knitr (>= 1.7), rmarkdown
 License: MIT + file LICENSE
-MD5sum: ca83c519f0028ad80acfce99ecd89331
+MD5sum: c6a1bda9ee2be8e181332416573c411c
 NeedsCompilation: no
 
 Package: vimes
