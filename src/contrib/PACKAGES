@@ -79,7 +79,7 @@ Imports: ggplot2, ISOweek
 Suggests: magrittr, outbreaks, testthat, vdiffr, covr, knitr,
         rmarkdown, scales
 License: MIT + file LICENSE
-MD5sum: 3ffd6d77090d0190506b64222ebce1df
+MD5sum: f85f9d25e5d60a8facf73bc5498ee094
 NeedsCompilation: no
 
 Package: incidence.ui
