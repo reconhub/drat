@@ -54,10 +54,10 @@ NeedsCompilation: no
 
 Package: nomad
 Version: 0.0.1
-Imports: provisionr (>= 0.1.3), yaml
+Imports: provisionr (>= 0.1.5), yaml
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: ff93022b5db0642c96e15641b9650513
+MD5sum: a0467d3b84095afdfd375d9585f1f2d0
 NeedsCompilation: no
 
 Package: outbreaks
