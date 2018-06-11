@@ -156,7 +156,7 @@ Imports: devtools, git2r, readr, glue, praise, utils, crayon, knitr
 Suggests: roxygen2, testthat, covr, goodpractice, digest, rmarkdown,
         pkgdown
 License: GPL-3
-MD5sum: a1e3aa2e8dbaa4e5c981656c608bf797
+MD5sum: 10b202a1d547734ef5057205ebe0020f
 NeedsCompilation: no
 
 Package: shinyHelpers
