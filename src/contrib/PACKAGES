@@ -70,7 +70,7 @@ Depends: R (>= 3.3.0)
 Imports: digest, distcrete, stringi
 Suggests: testthat, roxygen2, outbreaks, incidence, knitr, rmarkdown
 License: MIT + file LICENSE
-MD5sum: 0fce8990ab457584f79d44df309b20ba
+MD5sum: 8cc9495d13656b1a3a3209e46fb6635c
 NeedsCompilation: no
 
 Package: incidence
