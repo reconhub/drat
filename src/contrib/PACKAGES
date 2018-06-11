@@ -49,3 +49,13 @@ Suggests: testthat, covr
 License: GPL (>= 2)
 MD5sum: 6bca9d46b1e0514769d9fc97d4abac86
 NeedsCompilation: no
+
+Package: projections
+Version: 0.3.0
+Depends: R (>= 3.3.0)
+Imports: stats, utils, incidence, distcrete, ggplot2
+Suggests: testthat, vdiffr, roxygen2, knitr, rmarkdown, outbreaks,
+        magrittr
+License: MIT + file LICENSE
+MD5sum: 4b5ae153afed145fa77f74da5dab9c3f
+NeedsCompilation: no
