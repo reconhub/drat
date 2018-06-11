@@ -87,6 +87,14 @@ License: MIT + file LICENSE
 MD5sum: a0467d3b84095afdfd375d9585f1f2d0
 NeedsCompilation: no
 
+Package: odin
+Version: 0.0.8
+Imports: R6, cinterpolate, crayon, deSolve, digest, ring
+Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 2b304b81896bd6641a443ba5dfd8e94d
+NeedsCompilation: no
+
 Package: outbreaks
 Version: 1.3.0
 Depends: R (>= 3.0.0)
