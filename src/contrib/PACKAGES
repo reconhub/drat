@@ -68,3 +68,12 @@ Suggests: testthat, vdiffr, roxygen2, knitr, rmarkdown, outbreaks,
 License: MIT + file LICENSE
 MD5sum: 4b5ae153afed145fa77f74da5dab9c3f
 NeedsCompilation: no
+
+Package: vimes
+Version: 1.0.0
+Depends: R (>= 3.0.0)
+Imports: utils, graphics, igraph, VGAM, stats
+Suggests: testthat, knitr, rmarkdown, distcrete
+License: GPL (>= 2)
+MD5sum: 58fb3fa359dc0946932c2216a675e224
+NeedsCompilation: no
