@@ -146,7 +146,7 @@ Version: 1.0.0
 Imports: shiny, htmltools, whisker
 Suggests: outbreaks, DT, plotly
 License: MIT + file LICENSE
-MD5sum: 45454944c7434bfc3fc8ddd55ccd4cd0
+MD5sum: 89559bedcfcb3affcd438cc5e96cca95
 NeedsCompilation: no
 
 Package: recontools
