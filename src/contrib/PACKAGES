@@ -4,7 +4,7 @@ Depends: R (>= 3.3.0)
 Imports: lamW
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 944a5b8362fad820371417cd90250e2b
+MD5sum: f0165099b11ff4fe5c170c05b9fe797d
 NeedsCompilation: no
 
 Package: dde
