@@ -90,9 +90,10 @@ annecori/EpiEstim@release
 ```
 
 indicates that the `@master` branch of `incidence` hosted at
-`github.com/reconhub` will be installed, and that the `@release` branch of
-`EpiEstim` hosted at `github.com/AnneCori` will be installed, once the `drat`
-repository has been activated in the R sesssion.
+[`github.com/reconhub`](https://github.com/reconhub) will be installed, and that
+the `@release` branch of `EpiEstim` hosted at
+[`github.com/AnneCori`](https://github.com/AnneCori) will be installed, once the
+`drat` repository has been activated in the R sesssion.
 
 Once you saved the new version of `packages.txt`, open a terminal and execute
 the script `drat.builder` by typing: `./drat.builder`. Alternatively, open an R
