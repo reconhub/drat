@@ -1,3 +1,12 @@
+Package: dibbler
+Version: 0.0-2
+Depends: R (>= 3.0.0)
+Imports: utils, graphics, epicontacts, magrittr, visNetwork
+Suggests: testthat, knitr, rmarkdown, outbreaks
+License: GPL (>= 2)
+MD5sum: 9da253ee8b5547d213810c21a33e2752
+NeedsCompilation: no
+
 Package: earlyR
 Version: 0.0.1
 Depends: R (>= 3.3.0)
