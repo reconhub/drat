@@ -121,6 +121,25 @@ reconhub/outbreaks@release
 reconhub/incidence@release
 reconhub/epicontacts@release {"vignettes": false}
 reconhub/epitrix@release
+
+```
+
+indicates that vignettes will not be compiled for `epicontacts`.
+
+
+
+
+## Current content
+
+The current versions of packages used in the `drat` repository are:
+
+
+## RECON packages
+
+reconhub/outbreaks@release
+reconhub/incidence@release
+reconhub/epicontacts@release {"vignettes": false}
+reconhub/epitrix@release
 reconhub/earlyR@release
 reconhub/projections@release
 reconhub/dibbler@release
@@ -133,7 +152,12 @@ reconhub/recon.ui@release
 reconhub/incidence.ui@release
 reconhub/epicontacts.ui@release
 
-```
 
-indicates that vignettes will not be compiled for `epicontacts`.
+## Other packages
+
+richfitz/dde {"vignettes": false}
+mrc-ide/odin@development 
+mrc-ide/odin.ui@prototype
+vimc/orderly
+annecori/EpiEstim@release
 

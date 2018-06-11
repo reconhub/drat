@@ -117,19 +117,19 @@ reconhub/outbreaks@release
 reconhub/incidence@release
 reconhub/epicontacts@release {"vignettes": false}
 reconhub/epitrix@release
-reconhub/earlyR@release
-reconhub/projections@release
-reconhub/dibbler@release
-reconhub/vimes@release
-reconhub/branchr@release
-reconhub/nomad@release
-reconhub/recontools@release
-reconhub/shinyHelpers@release
-reconhub/recon.ui@release
-reconhub/incidence.ui@release
-reconhub/epicontacts.ui@release
 
 ```
 
 indicates that vignettes will not be compiled for `epicontacts`.
+
+
+
+
+## Current content
+
+The current versions of packages used in the `drat` repository are:
+
+```{r echo = FALSE, eval = TRUE, results = "asis"}
+cat(readLines("packages.txt"), sep = "\n")
+```
 
