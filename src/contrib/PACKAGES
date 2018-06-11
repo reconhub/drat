@@ -103,7 +103,7 @@ Version: 0.0.8
 Imports: R6, cinterpolate, crayon, deSolve, digest, ring
 Suggests: dde (>= 0.0.5), knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 2b304b81896bd6641a443ba5dfd8e94d
+MD5sum: 66b8e0a6147e1b2b3fde1b947dbe95cc
 NeedsCompilation: no
 
 Package: odin.ui
