@@ -3,7 +3,7 @@
 
 reconhub/outbreaks@release
 reconhub/incidence@release
-reconhub/epicontacts@release
+reconhub/epicontacts@release {"vignettes": false}
 reconhub/epitrix@release
 reconhub/earlyR@release
 reconhub/projections@release
@@ -20,8 +20,8 @@ reconhub/epicontacts.ui@release
 
 ## Other packages
 
-richfitz/dde
-mrc-ide/odin@development
+richfitz/dde {"vignettes": false}
+mrc-ide/odin@development 
 mrc-ide/odin.ui@prototype
 vimc/orderly
 annecori/EpiEstim@release
