@@ -1,3 +1,12 @@
+Package: epicontacts
+Version: 1.1.1
+Imports: grDevices, dplyr, igraph, magrittr, visNetwork, threejs,
+        colorspace
+Suggests: outbreaks, testthat, covr, shiny, readr, knitr, rmarkdown
+License: GPL (>= 2)
+MD5sum: ccf325adc5fe6183981fca71d71836f8
+NeedsCompilation: no
+
 Package: incidence
 Version: 1.3.1
 Imports: ggplot2, ISOweek
