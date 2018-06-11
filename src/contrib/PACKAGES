@@ -41,7 +41,7 @@ Imports: grDevices, dplyr, igraph, magrittr, visNetwork, threejs,
         colorspace
 Suggests: outbreaks, testthat, covr, shiny, readr, knitr, rmarkdown
 License: GPL (>= 2)
-MD5sum: ccf325adc5fe6183981fca71d71836f8
+MD5sum: 0e5bdb6f6efd5fee5eb4f5516a5f3e26
 NeedsCompilation: no
 
 Package: epicontacts.ui
