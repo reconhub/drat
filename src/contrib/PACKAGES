@@ -78,6 +78,14 @@ License: MIT + file LICENSE
 MD5sum: 4b5ae153afed145fa77f74da5dab9c3f
 NeedsCompilation: no
 
+Package: recon.ui
+Version: 1.0.0
+Imports: shiny, htmltools, whisker
+Suggests: outbreaks, DT, plotly
+License: MIT + file LICENSE
+MD5sum: 45454944c7434bfc3fc8ddd55ccd4cd0
+NeedsCompilation: no
+
 Package: recontools
 Version: 0.0.0.9000
 Depends: R (>= 3.2.0)
