@@ -111,7 +111,7 @@ Version: 0.0.1
 Imports: dygraphs, odin (>= 0.0.8), shiny (>= 1.0.4), shinyAce, yaml
 Suggests: testthat
 License: MIT + file LICENSE
-MD5sum: 67ddf8a6ffc1b7a380271e42b514cc27
+MD5sum: bab93360db37ee8a78c6ed8fbe6ebb57
 NeedsCompilation: no
 
 Package: orderly
