@@ -1,3 +1,12 @@
+Package: branchr
+Version: 1.0.0
+Depends: R (>= 3.3.0)
+Imports: lamW
+Suggests: testthat
+License: MIT + file LICENSE
+MD5sum: 944a5b8362fad820371417cd90250e2b
+NeedsCompilation: no
+
 Package: dibbler
 Version: 0.0-2
 Depends: R (>= 3.0.0)
