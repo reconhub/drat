@@ -53,6 +53,17 @@ License: GPL (>= 2)
 MD5sum: 39a195e78227bacef9f18ea191935403
 NeedsCompilation: no
 
+Package: EpiEstim
+Version: 2.1-0
+Depends: R (>= 2.10)
+Imports: coarseDataTools, stats, graphics, reshape2, ggplot2, plyr,
+        grid, gridExtra, plotly, fitdistrplus, coda, incidence, scales,
+        grDevices, knitr
+Suggests: testthat, compare, utils
+License: GPL (>= 2)
+MD5sum: 14b76f912040c0e6437ad77dac72509f
+NeedsCompilation: no
+
 Package: epitrix
 Version: 0.2.0
 Depends: R (>= 3.3.0)
