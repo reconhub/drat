@@ -87,7 +87,7 @@ Version: 1.0.0
 Imports: incidence, shiny
 Suggests: outbreaks, DT, plotly
 License: MIT + file LICENSE
-MD5sum: ef09cc20524146eb128b42a12f818664
+MD5sum: be1495f0d65e2e523fdc73708541d9f8
 NeedsCompilation: no
 
 Package: nomad
