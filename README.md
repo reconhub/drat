@@ -85,7 +85,17 @@ The prefered mechanism for contributions is via *pull requests* against the
 To add a package to the `drat` archive, edit the file `packages.txt`, using the
 syntax `[github user/organisation]/[package name]@[branch/commit]`, where the
 branch/commit indication is optional; if missing, the `master` branch will be
-used.
+used. For instance, the following `packages.txt`:
+
+```
+reconhub/incidence
+annecori/EpiEstim@release
+```
+
+indicates that the `@master` branch of `incidence` hosted at
+`github.com/reconhub` will be installed, and that the `@release` branch of
+`EpiEstim` hosted at `github.com/AnneCori` will be installed, once the `drat`
+repository has been activated in the R sesssion.
 
 Once you saved the new version of `packages.txt`, open a terminal and execute
 the script `drat.builder` by typing: `./drat.builder`. Alternatively, open an R
