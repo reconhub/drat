@@ -129,7 +129,7 @@ indicates that vignettes will not be compiled for `epicontacts`.
 
 The current versions of packages used in the `drat` repository are:
 
-```{r echo = FALSE, eval = TRUE}
+```{r echo = FALSE, eval = TRUE, prompt = ""}
 cat(readLines("packages.txt"), sep = "\n")
 ```
 
