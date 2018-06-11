@@ -52,6 +52,14 @@ License: MIT + file LICENSE
 MD5sum: 3ffd6d77090d0190506b64222ebce1df
 NeedsCompilation: no
 
+Package: incidence.ui
+Version: 1.0.0
+Imports: incidence, shiny
+Suggests: outbreaks, DT, plotly
+License: MIT + file LICENSE
+MD5sum: ef09cc20524146eb128b42a12f818664
+NeedsCompilation: no
+
 Package: nomad
 Version: 0.0.1
 Imports: provisionr (>= 0.1.5), yaml
