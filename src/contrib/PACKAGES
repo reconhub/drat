@@ -61,7 +61,7 @@ Imports: coarseDataTools, stats, graphics, reshape2, ggplot2, plyr,
         grDevices, knitr
 Suggests: testthat, compare, utils
 License: GPL (>= 2)
-MD5sum: 14b76f912040c0e6437ad77dac72509f
+MD5sum: 62c7e617cfb7c75791dea157430eb9bd
 NeedsCompilation: no
 
 Package: epitrix
