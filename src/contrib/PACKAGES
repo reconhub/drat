@@ -34,6 +34,15 @@ License: GPL (>= 2)
 MD5sum: ccf325adc5fe6183981fca71d71836f8
 NeedsCompilation: no
 
+Package: epicontacts.ui
+Version: 0.0.1.9999
+Imports: epicontacts, shiny, ggplot2, visNetwork, shinyjs, lubridate,
+        outbreaks
+Suggests: knitr
+License: GPL (>= 2)
+MD5sum: 39a195e78227bacef9f18ea191935403
+NeedsCompilation: no
+
 Package: epitrix
 Version: 0.2.0
 Depends: R (>= 3.3.0)
