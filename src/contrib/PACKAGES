@@ -124,11 +124,11 @@ MD5sum: 6e021413bec7be16ddb5940af35a9fd7
 NeedsCompilation: no
 
 Package: outbreaks
-Version: 1.3.0
+Version: 1.4.0
 Depends: R (>= 3.0.0)
 Suggests: testthat, covr, ape, incidence
 License: GPL (>= 2)
-MD5sum: b7bedcc87f3521c27663ec531163658d
+MD5sum: 6569a69621f3bb42b08aeec79bce60a3
 NeedsCompilation: no
 
 Package: projections
