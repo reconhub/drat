@@ -128,7 +128,7 @@ Version: 1.3.0
 Depends: R (>= 3.0.0)
 Suggests: testthat, covr, ape, incidence
 License: GPL (>= 2)
-MD5sum: ba8b5043d92d69733d93bd570470d11b
+MD5sum: b7bedcc87f3521c27663ec531163658d
 NeedsCompilation: no
 
 Package: projections
